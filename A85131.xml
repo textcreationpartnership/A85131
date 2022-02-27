@@ -1,0 +1,711 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVritten by one, whom the world calls a Quaker, Joh.17.2,3,4,5,6,7,8,9. Verses</title>
+            <author>R. F. (Richard Farnworth), d. 1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85131</idno>
+            <idno type="STC">Wing F472B</idno>
+            <idno type="STC">ESTC R229846</idno>
+            <idno type="EEBO-CITATION">99895707</idno>
+            <idno type="PROQUEST">99895707</idno>
+            <idno type="VID">153214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2354:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVritten by one, whom the world calls a Quaker, Joh.17.2,3,4,5,6,7,8,9. Verses</title>
+                  <author>R. F. (Richard Farnworth), d. 1666.</author>
+               </titleStmt>
+               <extent>[4], 18, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year, [1]653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>One, whom the world calls a Quaker = Richard Farnworth. -- Wing (CD-ROM edition).</note>
+                  <note>Drop-head title on page 1: A bunch of grapes, and an iron rod.</note>
+                  <note>Wing (CD-ROM edition) reports title as "A bunch of grapes, and an iron rod."</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153214:1"/>
+            <pb facs="tcp:153214:1"/>
+            <p>VVritten by one, whom the World calls a Quaker, <hi>Joh.</hi> 17.2, 3, 4, 5, 6, 7, 8, 9.
+<hi>Verſes.</hi> In the time of <hi>Iſraels</hi> captivity, bound under hard hearted
+<hi>Pharaoh,</hi> that rules over the pure Seed, the <hi>Iſraelite</hi> within; Thus ſaith the Lord, <hi>Therefore do I make my Power known, that</hi> Iſrael <hi>may go free.</hi>
+               <note place="margin">Read Scriptur &amp; ſee if can own ſame po<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that they that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them for</note>
+               <note place="margin">Read Job 8. &amp;c. 4.21.5, 37 1.</note>
+            </p>
+            <q>
+               <p>
+                  <note place="margin">
+                     <hi>David</hi> Pſal. 10 3, 4. Pſal. 38 7, 8. Pſal. 1 120 Iſal. 66 &amp; 5. Jer. 23. Hab. 3. Eze. 3 10. Dan. 11. Act 9 5, 6.</note>Thus ſaith the Lord, <hi>we have heard a Voyce, of Feare, of Trembling, and not of Peace;</hi> Wherefore do I ſee every man with his hands on his Loines, as a Woman in travell aske yee now, and ſee whether a Man doth travell with Child, and all Faces are turned into paleneſſe: Alas that day is great, ſo that none is like it. It is even the time of <hi>Jacobs</hi> trouble, but he ſhall be ſaved out of it;
+<hi>And I will break his yoake from off his Neck, and will burſt his Bonds, and ſtrangers ſhall no more ſerve themſelves of him, but they ſhall ſerve the Lord their God and</hi> David <hi>their</hi> King <hi>whom I will raiſe up unto them</hi>
+               </p>
+               <bibl>Jer. 30.4, 5, 6, 7, 8, &amp;c.</bibl>
+            </q>
+            <q>
+               <p>
+                  <note place="margin">Eze. 12 18. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n 10</note>The word of the Lord came unto me, ſaying, <hi>Son of Man, eate thy bread with quaking,</hi> &amp;c. So fearfull was the ſight, that I did ex<g ref="char:EOLhyphen"/>ceedingly fear and Quake:</p>
+               <bibl>
+                  <hi>Heb.</hi> 12.21. Verſ.</bibl>
+            </q>
+            <p>Printed in the Year, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>653.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:153214:2"/>
+            <pb facs="tcp:153214:2"/>
+            <head>One of <hi>Sions</hi> ſharp Threſhing Inſtruments, with A Bunch of Sweet
+<hi>Grapes</hi> on the end of it.</head>
+            <p>FOr tender hearts, which deſire to know the way to <hi>Sion,</hi> the City of the living God, that they may minde the leadings of the Fathers love, that ſends his Son to them, when they lie woun<g ref="char:EOLhyphen"/>ded, halfe dead, being falne amongſt Theeves,<note place="margin">Jer. 23.3 Ioh. 10.8.</note> thoſe that ſteale their words from their Neigh<g ref="char:EOLhyphen"/>bours, and have no Oyle to powre in, neither do they take any care of them, but leave them,<note place="margin">Ezek. 3.4 ver. Jer. 5.3 31. ver.</note> and doe not ſhew any mercy to them at all, looking lightly at them, all that they looke after is that they may be Lords and Rulers over Gods heri<g ref="char:EOLhyphen"/>tage, to make themſelves great, and rich, and honourable in the World, not knowing the office of a Phyſitian, to dreſſe the wound, and powre Oyle into it, neyther do they know the office of a Shep<g ref="char:EOLhyphen"/>heard, but are more like Swineheards,<note place="margin">Ezek. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 2, 3, ver.</note> all <hi>Baals</hi> Prieſts, feeding their luſts, faring ſumptuouſly, and living delicately, in great parſonages, and fat benefices, fatting up themſelves for the ſlaughter, puſhing the diſeaſed, and take no care, but loſe the ſheepe, feeding themſelves, and feed not the flock, which cauſeth the Lord to complain of them, and he ſends his ſervants, riſing up early and lying down late to cry out of their careleſneſs,<note place="margin">Ezek. 3<g ref="char:punc">▪</g> 5, 6, 7, 8, 9<g ref="char:punc">▪</g> 10. ver.</note> and ſome of them they beat, and ſome of them they ſtone, and others they impriſon, to ſatisfie their luſts, and
+<pb facs="tcp:153214:3"/>lives themſelves in pleaſures, and wantonneſſe, doing their own wills and not regarding the will of the Lord, Therefore is he ſore diſpleaſed with them, and will turn them out with the unprofitable ſervant,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e. 34.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 17, 18, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> and reward them according to their workes, even feed them with his ſore judgements. But as a loving Father,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.10.9, 11. &amp; 15, 16.</note> and a tender and good Shepheard, doth he take care for his ſheepe, and ſends his Son to fould them, and lead them into fat Paſtures, even feeding them all along by the Ri<g ref="char:EOLhyphen"/>vers of his love,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e. 34.11,
+13, &amp;c.</note> where there is greene and freſh mercies for the ſoules of his diſtreſſedones, to feed on,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 15.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 2, 8, 9.</note> and he dreſſeth the Diſeaſed ones, pouring in the Oyle of Faith, and Love, and Mercy, mixt together, to heale up the wound, and make them chearfull,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 4.34.</note> and profitable, to bring forth fruit for his Fathers glory, and his delight is altogether in doing his Fathers will, <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. 10.7, 8, 9, 10. Verſes.</hi>
+            </p>
+            <p>This was written by a labouring Man, that ſome<g ref="char:EOLhyphen"/>times Threſheth, and ſometimes Plowes, and keeps with his Fathers ſheep, who is an Husbandman, and his delight is altogether in the new Creation, watering Plants, and feeding Lambs, and ſuch work as his Father ſets him about, whoſe deſire and delight is altogether, in doing his Fathers will.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:153214:3"/>
+            <head>A Bunch of <hi>GRAPES,</hi> AND An Iron <hi>ROD.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>LL the Children of the Lord are taught of the Lord,<note place="margin">Iſal. 54.12, 13,
+15.</note> and are farre from oppreſſion, and they are eſtabliſhed in righteouſneſſe: The Lord alone is the Teacher of his people by his Spi<g ref="char:EOLhyphen"/>rit, and they are made poſſeſſors of that which the World doth but profeſſe; All you that profeſſe love to God and Jeſus Chriſt, ſee what you doe poſſeſſe of him,<note place="margin">Mat. 11</note> A great Fig-tree is ſprung up out of the Earth, full of flouriſhing branches, and leaves; but examine, looke upon the Tree, and ſee for fruit, the Lord is comming to looke for fruits: every one ſeriouſly conſider, where he ſtands, what he profeſſeth, &amp; what he practizeth, It is not be that ſaith Lord, Lord, that enters into the Kingdome, but be that doth the will of the Father, now there is no entrance into the King<g ref="char:EOLhyphen"/>dome,<note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 13, 14.</note> but through obedience, and every one would gladly enter into the Kingdome of Heaven, but they that will enter muſt enter in at the ſtraite gate, not
+<pb n="2" facs="tcp:153214:4"/>through their own wills, and luſtfull deſires, but through the croſſe in ſelfe-deniall, in obedience to the Lord Jeſus Chriſt; The Lord hath commanded that thou ſhalt not be drunke, nor proud, nor covetous, nor gi<g ref="char:EOLhyphen"/>ven to anger, malice, nor revenge, nor to deale deceit fully with thy brother, nor to ſee them naked and hun<g ref="char:EOLhyphen"/>gry; and many other things thou ſhalt find commanded in thy ſpirit, and thou wilt confeſſe it is truth, now minde whether thou doſt obey the Lord in temperance in all things, in giving freely to thy poore brethren, in feeding and clothing them, in forgiving one another, freely: in ſpeaking the truth to thy Neighbour, &amp;c. (or thy luſts) and if thou doſt, thou ſhalt be beaten with many ſtripes. Yea, but thou ſayeſt thou wanteſt power, no thou ſlothfull ſervant, thou hideſt thy Tal<g ref="char:EOLhyphen"/>lent in the Earth;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 4.7. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. 12.3</note> See if there be not the Talent given thee, the Lord is convincing every one, and hath ſet up his Miniſtery, ſaying, thou muſt not doe evill, and hath written what it is to doe evill in thy heart, and how to do well: but thou diſobeyeſt, and calls God an hard Maſter, Remember the ſlothfull ſervants portion, but if thou wilt obey the Miniſtery of <hi>Jeſus Chriſt,</hi> minde, imploy thy Talent,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 3.11. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1. Ch. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 8.12. Pet. 1.19</note> he hath ſet a light in the World within thee, convincing thee of every evill thought, word, and action, be obedient to that, and it will guide thee into all truth; It will be a preſent teacher, a pre<g ref="char:EOLhyphen"/>ſent Law in all companies, and upon all occaſions, yea in all thy wayes, <hi>to be a light to thy Feete, and a Lanthorne to thy pathes,</hi> thou ſhalt finde the light, love, truth, in obeying it continually, manifeſting it ſelfe unto thee, and working thee into the experience of the Divine taſte, ſight, and apprehenſion of the exceeding love of thy Saviour, that when thy carnall minde <hi>(Dinah)</hi> who would run forth to fetch in earthly profits, or pleaſures, continually to croſſe thoſe deſires, and take away from thee that Scorpion, which the Divell offers,
+<pb n="3" facs="tcp:153214:4"/>to take thy earthly minde with, and ſo impriſon thee, and waiting in this light,<note place="margin">1 Ch. 15, 16, 26 ver. 1 Joh. 2. 2 Cor. 1 Heb. 1 15, 16. 1 Cor. 13. 2 Cor.
+16, 17, ver. Iſa. 12. ver. 1 Pet. 3.20. Iſa. 29. ver.</note> The Lord will give thee an earneſt peny even his precious love, to nouriſh thy ſpi<g ref="char:EOLhyphen"/>rit, even unto eternall life, thou needeſt not run out for teaching, If thou wilt but heare what the ſpirit ſpeaketh to the Church, in thy heart, If thou haſt an Eare to heare, that Miniſter, he hath the everlaſting Goſpell to Preach, and he doth continually Preach, and hand out the love of God to thee, examine thine heart, it is either an holy Temple, where the Goſpell is preached by the Spirit of God, or the Temple of the Devill, where the Devills doctrine is preached: now mind, his ſervant thou art, to whom thou yeeldeſt obe<g ref="char:EOLhyphen"/>dience, the Lord is ſetting up his Miniſtery in power, in the ſpirits of his people, to him be everlaſting praiſe for ever. Therefore ceaſe from Man, and from the teachings of Man, heare what the ſpi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it ſpeaketh, to every diſobedient ſpirit, this is the Miniſtery of God that worketh faith, that adminiſters grace to the hea<g ref="char:EOLhyphen"/>ters; The Lord complained of a people, that drew neare him with their lips, and that ſpoke of him in their mouthes, but their hearts were far from him, that had their feare taught to him, by the precepts of men, ſee if it be not even ſo now, great runnings out for teach<g ref="char:EOLhyphen"/>ings after Man, great profeſſing God in words, but whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e is the power of godlineſſe; great ſpeakings of
+<hi>Jeſus Chriſt,</hi> a Redeemer, but when he comes, the pro<g ref="char:EOLhyphen"/>feſſing <hi>Phariſes</hi> will not know him, but lookes for an outward day of the Lord, an outward Kingdome, not knowing the voyce of the true Shepherd in the ſpirit, not when he comes to take the Kingdome to himſelfe, will he ſuffer him; If he be thy Redeemer, ſee if he have redeemed thee from thy vaine converſation, and if thou findeſt him not doing it in thine heart, why doſt thou call him Saviour or Redeemer, and hateſt to be redeemed and ſaved? ſee your teachers, they ſay unto
+<pb n="4" facs="tcp:153214:5"/>you, that you would not be proud, nor covetous, nor oppreſſe, nor go to Law one with another, nor contend for the goods of this World, and ſay the Lord ſaith it, but the Lord never ſaid it ſo to them, that live in thoſe things,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 7.15, 17,
+18, 20.23.28,</note> to be your teachers: feed no longer on wine, leaſt ye bring forth a whirle wind, <hi>they ſweare by my Name ſaith the Lord,</hi> and yet they ſweare falſely, he that hath a Dreame, tell his Dreame, and he that hath my word ſpeak my word, <hi>for what is the Chaffe to the Wheare ſaith the Lord,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 10.7, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 10. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.7.26, 28.
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 4. &amp;</note> and is it any thing elſe, but to tell Dreames, of their own hearts, ſtudyings, and inventions, to ſay, and not to doe, to profeſſe to have the word of the Lord, and under that colour to grind the faces of the poore? Chriſt never ſent any ſuch: be not deceived, God is not mocked, to day if you will heare heare the Voyce of the Lord,<note place="margin">40.3, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> in your ſpirits, and it will breake the Ceda<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of <hi>Libanon,</hi> remove the Mountaines, and cauſe the Hind to caſt her Calfe, it will breake down every high thought, and remove every proud imagination, and cauſe every wild luſtfull deſire to be abortive, and it will give ſtreng h to overcome the wicked one, to deny that which tempteth to doe evill, and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing you to <hi>John,</hi> to be Baptized in <hi>Aenon,</hi> into Repentance, and newneſſe of life; it will not only ſhew you the way to the Father, but it will bring you into the way to the Father; <hi>Jeſus Chriſt</hi> ſaving, and taking away your ſinnes, and blotting out the hand<g ref="char:EOLhyphen"/>writings, and into righteouſneſſe, (eternall Life) it will let you ſee how the Lambe of God hath laid ſlaine in you, from the beginning of the World in you, by your luſts, and corruptions, <hi>viz.</hi> The reſiſting the love in convincings of evill,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch. 12.10</note> and movings to good, the ſight of which will cauſe you to mourne over him whom you have pierced by your luſts and corruptions, and no longer to allow the <hi>Jewes</hi> Act; Now the Lord raiſe up the plant of his right-hand in all your ſpirits more
+<pb n="5" facs="tcp:153214:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd more, that there may be abundance of ſweet Grapes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he alone may be honoured.</p>
+            <p>Friends, prize the love of God unto you,<note place="margin">Joh. 1.4.</note> and mind <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he light of God in you, that ſhewes you ſinne and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vill, and your conditions, and obey that which ſhewes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou the vanity of your own minds, and the deceites of your own hearts, the Lord calls for your hearts, <hi>my <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nne, give me thine heart, keepe my Commandements,</hi>
+               <note place="margin">Prov. 7.2, 3. Pro. 2. 1 2, 3, 4. &amp; Mat. 24 26, 27, 2 Col. 1.27</note> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind them about thy neck, and write them upon the Tables of thine heart,</hi> So ſhall they be health to your ſoules; Harken diligently to the voyce of Chriſt, and your ſoules ſhall live; he is not without in formall hearing, and formall praying, and formall breaking of Bread and Wine, he is not there, he is riſen, looke not for him without, but looke for him within, and ceaſe from man whoſe breath is in his Noſtrills, for wherein is he to be accounted of, waite upon the Lord,<note place="margin">Jam. 5.7</note> and he will renew your ſtrength, and enable you to waite, but it may be you will ſay, I muſt uſe the meanes, you muſt do ſo, let me tell you, you will find it hard to fleſh to waite, therefore uſe the meanes of patience, Let pati<g ref="char:EOLhyphen"/>ence poſſeſſe your ſoules, let the light guide you,<note place="margin">2 Cor. 4.6, 7.</note> that ſhewes you your wandering deſires, and vaine thoughts, and wicked imaginations, and if you be guided by it, it will turne your minds within,<note place="margin">1 Cor. 4.</note> and bring you to Repentance, and Repentance, it will bring you to be loving and mercifull, for God is ſo, and it will bring you to be meek, and lowly in ſpirit, and being kept in the true feare, it will cauſe you to lay aſide all evill,<note place="margin">Acts 3.1</note> as the light makes it manifeſt, and to waite upon the Lord in patience, till an entrance be made to your ſoules, and refreſhment come from the preſence of the Lord, and ſaith Chriſt, <hi>If yee love me, keepe my Commande<g ref="char:EOLhyphen"/>ments, let them be upon your hearts, that you may obey them,</hi> and ſaith he, <hi>I am the light of the World, and the World is ſet in mans heart, ſo that he cannot find out the beginning,</hi>
+               <note place="margin">Eccl. 3.1</note>
+               <pb n="6" facs="tcp:153214:6"/>
+               <hi>nor the end of the worke of God,</hi> mind the light that ari<g ref="char:EOLhyphen"/>ſeth there, looke not forth at man, but keepe within and waite upon the light, he that loves the light, brings his deeds to the light, that the light may prove them, this light is not a Chapter without you,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh. 3.19, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0, 21.</note> the Chapter declares of the light, but it is not the light, the light is within,<note place="margin">Pet. 2.19 Cor. 4.7</note> as it was in them that ſpoke forth the Chap<g ref="char:EOLhyphen"/>ter; and minding the light of God in you in me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſure, having your minds guided by it, it will turne it within, and croſſe your wills, for there is a dayly croſſe to be taken up, to your own wills, and your wills being croſt, that it cannot go forth, to fetch in deſires, it will pine and famiſh the Earthly part in you, and as the light growes, it will make more evill manifeſt in you, and then the iudgement will be ſet up within,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 5.9.</note> and there will be a watch ſet over all your thoughts, words, and workes, and the righteous Law will paſſe through you, and limit your carnall minds, and bring into ſub<g ref="char:EOLhyphen"/>jection every diſobedient thought, word, or worke, and there will be true Judgement and Juſtice executed in you,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. 26.9.</note> ſo that you ſhall find that Scripture fulfilled, that ſaith, <hi>when thy Judgements are in the Earth, the In<g ref="char:EOLhyphen"/>habitants thereof ſhall learne Righteouſneſſe,</hi> there will be Juſtice done, upon the carnall (Earthly) part with<g ref="char:EOLhyphen"/>in you;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 11.12</note> And then Righteouſneſſe it will ariſe to guide you, and rule you, to live, and act in righteouſneſſe, and true holineſſe; Therefore looke not forth, for that which looketh forth brings in darkneſſe, therefore abide in the light in meaſure, and it will guide and keepe you in peace, and looke not above your conditions, for none ſhall be condemned for that which they know not, but for that which they know, and doe not obey, being obedient to the right, it will lead you our of all the wayes and works of darkeneſs, and lead up to puri<g ref="char:EOLhyphen"/>ty, to Holineſs, to Righteouſneſs, without which none ſhall ſee the Lord, let them profeſſe what they will,
+<pb n="7" facs="tcp:153214:6"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et what you doe poſſeſſe, and looke not out: for let<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing your minde forth either after men for teaching, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be feeding or delighting it ſelfe in any object with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut, as pride, or profits, or pleaſures, or preferments, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> honours, or covetouſneſſe, or anger, or malice,<note place="margin">Jam. 1.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 26.</note> or
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeviſhneſſe, or paſſionateneſs, it doth draw you out of your conditions, and ſo the pure will be vayled in you,<note place="margin">Jam. 3.2. ver. Ver. 5.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eph. 5.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 4, 5, 6. ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and then out of that vaile will ariſe thoughts, and doubt<g ref="char:EOLhyphen"/>ings &amp; queſtionings, and feares, and your minds will be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rdened, and troubled in you, and you will be rea<g ref="char:EOLhyphen"/>dy to ſay that God withdraws from you, when he doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot, it is your mindes that goe aſtray from him, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eade all your affections after it;<note place="margin">Pſa. 34, Jer. 17.8.</note> Therefore <hi>bleſſed is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he vian that trusteth in the Lord,</hi> and whoſe minde is dayed on him, and he will keepe him in perfect peace all his dayes, whoſe minde is ſtayed on him;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ro. 8.3
+33, 34. Pſal. 48.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> O waite on the Lord in patience, and let the light of God guide you, and it will keepe you in peace in meaſure, as it growes in you, and walking in it in meaſure, it will keepe you open, and pure, to receive the teachings of the Father, and as the light growes, it will open to you more and more, waiting in patience, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will lead you ſooner out of troubles, into reſt, and peace, and joy, for when troubles doe ariſe, your wit and reaſon would be ſtudying out a way to be at peace,<note place="margin">Rom. 5.3 4, 5. Rom. 8. 25, 26,
+27</note> but it cannot, but rather keepes you in bondage, there<g ref="char:EOLhyphen"/>fore let patience have its perfect worke in you, and it will crucify impatiency, and lead you through the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roſſe, for patiently waiting through the croſſe ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aines the Crowne, and gets the victory, when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roubles doe ariſe be content,<note place="margin">Luke 21.19. Heb. 10.36.</note> and let patience poſſeſſe your ſoules, when temptations come, ſubmit to the will of the Lord, and looke not downe at Temptati<g ref="char:EOLhyphen"/>ons, and Troubles, but looke up to the Lord who is preſent with you in them, to lead you out of them,
+<pb n="8" facs="tcp:153214:7"/>looke not to finde out a way by your own wiſdome, but minde the Angell of the Lord that is preſent with you,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m. 5.2, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 4, 5.</note> to lead you out, for ſaith he, <hi>in all thy affliction<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I am with thee, and the Angell of my preſence ſhall goe before thee,</hi> Therefore minde to follow him, and hee will lead you out of Temptations, and Troubles, up to Peace and Joy, and Reſt, even into the everlaſting Covenant, to be united into the Divine Nature, to partake of all the ſoule ſatisfying Comforts and Refreſhments,<note place="margin">Cor. 2.9, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 11.</note> where there is marrow and Fat<g ref="char:EOLhyphen"/>neſſe, and love indeed, which no Tongue can ex<g ref="char:EOLhyphen"/>preſſe,</p>
+            <p>Oh be faithfull, be faithfull to the Lord in what is made manifeſt in you, and prize his love above all things, and ſinke downe into the love and mercy of the Lord, and minde to be kept in the corſſe, the pure is the croſſe to the carnall part in all things, and ſtand<g ref="char:EOLhyphen"/>ing in the Counſell of the Lord, it will diſcover all the conſultaions of the enemy within, and ſo your will being kept in the croſſe, Wiſdome and Reaſon, and Imaginations will be kept under, and thou wilt be kept in peace in all conditions,<note place="margin">Joh 15.5.</note> abiding in the which, in dwelling in that which is pure, and you will be brought to a diſcerning, to ſavour truth from errour in your ſelves, and you will ſee what it is that would draw you forth, and a ſtrickt watch will be kept, and ſo the tempter will be diſcovered how he layes his baites to draw forth your minds, and that which diſ<g ref="char:EOLhyphen"/>covers the temptations, will bring you to reject the tempter in all things,<note place="margin">Jam. 4.7. Iam. 1.12. Jam. 5.8.</note> and hee will be kept for en<g ref="char:EOLhyphen"/>tring in, abiding in that which is pure, and it will keepe you in the pure feare of him who is pure, and the pure feare will keepe out all ſlaviſh feares, and ſo your minds will be kept free from all objects without, and from thoughts,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 5.8,
+9</note> and muſings within, and have<g ref="char:EOLhyphen"/>ing your minds cleare and pure, you will be fit to
+<pb n="9" facs="tcp:153214:7"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ceive the teachings of the Father, and ſo ſhall you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome to heare words unexpreſſable, having your minds <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re and free, and ſo a way will be made for the free <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove of the <hi>Lord Jeſus Christ,</hi> to flow into your ſouls, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich being made to taſte, and partake of, having <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our ſoules therein exerciſed, it will draw you out of your ſelves, into that where no Creature is, even into the fountaine of your Fathers love,<note place="margin">1 Pet.
+10, 11.</note> to rejoyce in him with exceeding joy, and it will even take your affecti<g ref="char:EOLhyphen"/>ons into its own purity, and excellency, that the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owings in of it will even breake your heart in peeces,<note place="margin">Cant. 4. 8 10, 11.</note> and overcome all things that are in enmity againſt it, and take you up into rapture of Joy, and Raviſhment of ſpirit, to have your ſoules bathed in that full foun<g ref="char:EOLhyphen"/>taine of living mercies, to delight in the Lords Love, above all other loves whatſoever, for the love of all things that are viſible, is but tranſitory, and fades a<g ref="char:EOLhyphen"/>way, but dwelling in that which is pure, it will draw your affections into that which is inviſible,<note place="margin">Cant. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1 13, 14, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> to be com<g ref="char:EOLhyphen"/>prehended into the excellency of the full fountaine of the free love of the <hi>Lord Jeſus Chriſt,</hi> which will com<g ref="char:EOLhyphen"/>fort your hearts, and cheare you up above all other comforts whatſoever: Oh my deare hearts, dwell wholy within, and mind to be guided by that which kills all luſtfull affections, to outward and viſible de<g ref="char:EOLhyphen"/>lights and pleaſures, which are but as droſſe and dung, in compariſon of the eternall and inviſible ex<g ref="char:EOLhyphen"/>cellencies. Oh, waite ſtill upon the Lord, and be not haſty, he is worthy to be waited for, ſtand wholly in the Counſell of the Lord, and your wills which would be delighting it ſelfe, below, will be kept in the Croſſe, which will cut downe all things which are Earthly and carnall in you, and ſo abiding in the Croſſe,<note place="margin">Heb.
+4.13.</note> and ſtanding in the Counſell of the Lord, it will keepe from hearkning to words without life
+<pb n="10" facs="tcp:153214:8"/>and power, to ſavour from what Genter they do ariſe, <hi>for by ſtanding in the Counſell of the Lord,</hi> it will bring you to know, the true Power of God in your ſelves, and to know the living word, which gives your ſoules refreſhment, which proceeds from the Divine Power, and excellency of the Lords Love within, operat<g ref="char:EOLhyphen"/>ing, and manifeſting it ſelfe to you, from the Lords owne free Love, and eternall Excellency, and know<g ref="char:EOLhyphen"/>ing this within your ſelves,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 13. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt<g ref="char:punc">▪</g> 7.6, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0, 9, 10, 12, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, ver.</note> you will be brought to diſcerne the ſame power of life, when it brancheth forth its ſelfe in others, to have unity with it; All words that are ſpoken without life and power, ariſe from a vaine light mind, and they draw out the mind to lightneſſe, and begets into the ſame nature of its ſelfe, and there the will gets liberty, and the old man is kept alive, and gets words from the ſame Center, that ariſeth out of conceivings, and imaginations, to ſpeake of, but words without life deſtroy the Simpli<g ref="char:EOLhyphen"/>city, in you, and hearkning to them, it will draw you out of the love and ſenſe of the Mercies of the Lord, and the pure unity and tenderneſſe will be loſt, and the old nature will get up againe, and take its liberty under other Colours, and thereby the Grace of God will be turned into wantonneſs,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h. 15.5,
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>verſ.</note> and ſo the Lord will be diſhonoured.</p>
+            <p>Oh my deare hearts, I beſeech you for the Lords ſake to walke worthy of your calling, ſee that your mindes be kept within, and guided by the pure guide, and it will keepe you and lead you into purity it ſelfe, and knowing the true Voyce, and the true Power of the <hi>Lord Jeſus Chriſt</hi> in your ſelves,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h. 10.14 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 28.</note> it will bring you to know the ſame in others, and that will beget into the ſame life to live in love and purity, to have Union and Communion with that which is pure and holy, and as words without life doe deeſtroy the pure
+<pb n="11" facs="tcp:153214:8"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>plicity and vayle the pure, giving heed to them, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> words that are ſpoken from the will raiſe up the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, and rent through the vayle of darkneſſe, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive light and refreſhment, to that pure ſeed which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es low, to nouriſh and revive it, that it may get <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rength, and grow in purity and love, oh looke <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot out at words, but know the power of words,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd give up your ſelves wholly to the Lord, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee may guide and leade you into all truth, but ſtand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Counſell of the Lord, and ſo away will be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade beyond your underſtanding,<note place="margin">Jo. 14.16 17. verſ. 8 26. verſ.</note> that the pure <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed may be rayſed up in glory in you, ceaſe wholy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom all your Prieſts, for they draw your mindes from the pure teachings within, and ſo will leaven you with their dirty ſtuffe that is fetcht out of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld ſtore houſe of their ſtudyings,<note place="margin">1 Joh. 2.2 Jer.
+23.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 26, 27. v<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Jer. 23.25 Heb. 4.12 13.</note> conceavings and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>maginations, that they fetch out of old Authors <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Commentatours; for they know not the word of God, that ſtudie for words to ſpeake, the Word of God is a living Word, it is a powerfull Word, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will cut downe all luſtfull deſires in you that would runne forth into the earthly carnall delights: And that which cutts downe the carnall deſires in you, will ſtrengthen the pure deſires, that ſtreames of living and freſh Mercies may come into your ſoules, from the living Fountaine of the Lords eternall love, and this is within, Chriſt is within, 2 <hi>Cor.</hi> 13.5. verſ. great is the miſtery of Godlineſſe, Chriſt in you, <hi>Col.</hi> 1.27. Know him there; and the word is within you, know it there, <hi>Rom.</hi> 10.8. Let the Word of Chriſt dwell in you richly in all Wiſdome, Teaching, and Admoniſhing one ano<g ref="char:EOLhyphen"/>ther, let the Peace of God rule in you,<note place="margin">Iſai. 9.6, 7</note> which is <hi>Jeſus Christ,</hi> the everlaſting Prince of peace, know it all within you <hi>Col.</hi> 3.15, 16. Come to know this
+<pb n="12" facs="tcp:153214:9"/>Teacher within, and looke after no other, yee have an Unction, and yee neede not that any Man teach you, but that anointing, 1 <hi>Joh</hi> 2.27. Know Chriſt within, killing ſinne and evill, and reveailing and manifeſting the hidden Riches of his Fathers Love to your ſoules,<note place="margin">Rom. 8.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0, 11. Cor. 1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7.28.</note> the miſtery that hath beene hidde, from Ages and Generations, is God the Father now revealing in the hearts of a poore deſpiſed People; Now if thou love the <hi>Lord Jeſus Chriſt,</hi> thou muſt not love the World, for hee that loveth any thing more then Him, hee is not worthy of Him, and thou muſt deny thy ſelfe of all the delights of the fleſh whatſoever, thou cannot have the Love of God, and the love of the World, for the friendſhip of the World is enmity with God,<note place="margin">Joh.
+2.15 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6.24.</note> 
+               <hi>Oh love the Lord Jeſus Chriſt with all your Hearts, for there is no love like to his Love, and waite wholy upon him for Teaching.</hi> Now to waite is to have your mindes ſtayed off from all Thoughts, Conceivings and Imaginations, Pure, and Free, and then you will heare the voyce of the good Shepheard, ſpeaking to your Soules, that are in Priſon; Therefore waite wholly, and be not weary, and waite within, and when Troubles and Temp<g ref="char:EOLhyphen"/>tations doe ariſe, doe not looke at them, but minde that which doth diſcover them, that is the love of God to diſcover them, minde that, and ſtand wholy in the Will of the Lord, and ſo you ſhall finde reſt to your ſoules,<note place="margin">1 Pet. 3.18, 19.</note> and walke worthy of the Lords Love, every wayes, in Life and Converſation, and take heede of turning his Grace into wantonneſſe. This was not written for Swine to ſnuffle upon, with their dirty Noſes, and ſo caſt dirt on it, but from the flowings of love to tender deſires, to minde what begets the deſire to Righteouſneſſe, (thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt after the Water of Life) and you ſhall finde in minding and
+<pb n="13" facs="tcp:153214:9"/>obeying, the tender Love of God, as a carefull Fa<g ref="char:EOLhyphen"/>ther, bringing a reward with him, as a tender Shep<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eard, cheriſhing his Lambes in his boſome,<note place="margin">Iſa.
+40.10, 11.</note> and gently driving thoſe that are with young; open when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee knocks; If thou but lay thy hand upon the La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, thou ſhalt feele the ſmell of <hi>Mirrhe.</hi>
+               <note place="margin">Cant. 5.4.</note> Let Swine feed on Huskes, and formes, keepe thou out of the words of all men, and ſinke downe into the ground, (the eternall Word of Life within) and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eare and follow the leadings in thee,<note place="margin">Gal. 6.4.</note> and ſo thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alt live in thine owne life, and have thy rejoycing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n thy ſelfe and not in others.</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Vine,</hi> R. F.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <p>NOw ceaſe wholly from all your Prieſts, for they never were ſent of God, but are enemies both <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him and his, as by their fruits is made manifeſt, they are perſecutors, the higheſt of them in their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſhly Wiſdome, are the higheſt deceivers, and now <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re found to be perſecutors, as the Jewiſh high Prieſts did perſecute Chriſt when hee came in the
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſh, ſo do theſe Prieſts perſecute <hi>Ieſus Chriſt,</hi> now where he is made manifeſt in the ſpirits of his people, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o teſtify againſt their deceits, As is now made manifeſt by them, Therefore ceaſe wholly from them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, great and ſmall, <hi>For as a Troope of Robbers <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ite for a Man, ſo the company of Prieſts murder in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e way by conſent, Hoſca</hi> 6.9. and hold up that fil<g ref="char:EOLhyphen"/>thy horrible thing, which the Lord ſent his true Prophets to cry out againſt, as in <hi>Ier.</hi> 5.30, 31. ver. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith hee, <hi>A horrible and a filthy thing is committed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Land, the Prophets prophecy falſely, and the
+<pb n="14" facs="tcp:153214:10"/>Prieſts beare rule by their meanes, and the People love to have it ſo, but what will yee do in the end thereof</hi> ſaith the Lord, <hi>Vengeance is mine and I will repay</hi> Therefore hold them not up, but come out of <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt yee be partakers of her plagues,<note place="margin">Rev. 18.4, 5.</note> like Prieſts like people, <hi>Hoſea</hi>
+4.9. and the Leaders of the peopl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cauſe them to erre, <hi>and if the blind lead the blind, hot ſhall fall into the Ditch, Mat.</hi> 15.14. <hi>The Prophet divine for money,</hi>
+               <note place="margin">Iſai. 9.16.</note> 
+               <hi>and the Prieſts they Preach for hire<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and leane upon the Lord and ſay,</hi> is not the Lord a<g ref="char:EOLhyphen"/>mongſt us?<note place="margin">Mica. 3.11</note> but ſaith the Lord, <hi>they ranne but I did not ſend them, Therefore they ſhall not profit the peopl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at all,</hi> Jer. 23. See what you are profitted by them and hold them not up, the Lord is againſt them <hi>Ier.</hi> 23.30, 31, 32, Verſes, and the Lord will mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them contemptible in the Eyes of the people, <hi>Mal.</hi> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 9. ver. woe to them, they have runne in the waye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Caine,</hi> who was a Murderer, and Teacheth fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rewards,<note place="margin">Jude 11.</note> as <hi>Balaams</hi> Prieſts did; and ſhall periſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the gaine ſaying of <hi>Core,</hi> for the Lord hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poured out upon you the ſpirit of deepe ſleepe,<note place="margin">Iſai. 29.10</note> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath cloſed your Eyes, the Prophets and your Ru<g ref="char:EOLhyphen"/>lers, and your Seers hath hee covered,
+<hi>Iſai.</hi> 19<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>10. Stay your ſelves and wonder, cry yee out, and cry they are drunken, but not with Wine, they ſtag<g ref="char:EOLhyphen"/>ger but not with ſtrong drinke; Wherefore th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Viſion is become unto you all, as a booke ſealed which men delivered unto one, that is learned, ſay<g ref="char:EOLhyphen"/>ing, read this I pray thee, and he ſaith, I cannot for it is ſealed,<note place="margin">Iſai. 29.11, 12,
+13.</note> and the booke is delivered to hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that is unlearned, and ſaith, read this I pray thee and he ſaith I cannot, for I am unlearned, <hi>Where<g ref="char:EOLhyphen"/>fore thus ſaith the Lord, for as much as this people dra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neare with their Mouth, and their Lips, but thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hearts are farre from mee, and their ſeare toward
+<pb n="15" facs="tcp:153214:10"/>is taught by the Precepts of Men, Therefore I will <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eede to do a marvelous Worke, and a wonder amongſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſe people, even a marvelous worke and a wonder, for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wiſdome of their wiſe Men ſhall periſh, and the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>derſtanding of the prudent ſhall be hid,</hi> Iſai. 29.13. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Now the Scripture is fulfilling dayly, and to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fulfilled: Woe to them that ſeeke deepe to hide <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Councell from the Lord, and they ſay, who <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th us, and who knoweth us? and their workes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the darke: Thus ſaith the Lord, <hi>your turning things upſide downe ſhall be eſteemed as the Potters <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ay,</hi> Iſai. 29.16. <hi>It is yet a little while, and</hi> Le<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on <hi>ſhall bee turned into a fruitfull Field, and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itfull Field ſhall be turned into a Forreſt.</hi> And in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> day ſhall the deafe heare the words of the Booke, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve the Miſtery of Godlineſſe unfoulded in them, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the blinde ſhall ſee out of obſcurity, and out darkneſſe, and the Lord will be the glory of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ople
+<hi>Iſrael</hi> his choſen ones, and the meeke in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rth ſhall encreaſe their joy in the Lord,<note place="margin">Iſai. 29.18, 19.</note> and the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ore among Men ſhal rejoyce in the holy one of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ul;</hi> They alſo that erred in ſpirit ſhall come to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>derſtanding, and they that murmured ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne Doctrine, <hi>Iſai.</hi> 29.24. ſhall be all taught of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord, and know the voyce of <hi>Ieſus Chriſt,</hi> (the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Shepherd, and Biſhop of their ſoules) <hi>Ceaſe yee in Man, whoſe breath is in his Noſtrills,</hi>
+               <note place="margin">Joh.
+10.14.</note> 
+               <hi>for where<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is he to be accounted of? Iſa.</hi> 2.22. What agreement <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th Righteouſneſſe with Unrighteouſneſſe, and what <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommunion with light and darkneſſe? Ceaſe from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> teachings of Men, of corrupt minds, and waite <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olly upon the Lord, for the pure teachngs of his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>it, the ſpirit of truth, that guideth and leadeth to all truth, Thus ſaith the Lord, <hi>Come out from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng them, and be ſeperate, and touch no uncleane
+<pb n="16" facs="tcp:153214:11"/>things,</hi>
+               <note place="margin">2 Cor. 6.16, 17. Rev. 20.12.</note> 
+               <hi>and I will receive you, and will be a Fa<g ref="char:EOLhyphen"/>ther unto you, and yee ſhall be my Sonnes and Daugh<g ref="char:EOLhyphen"/>ters,</hi> ſaith the Lord God Almighty, 2 <hi>Cor.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.18.</p>
+            <p>The Booke that was ſealed with ſeaven Seale is opening, the Miſtery of Godlineſſe which is Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in us, the Divine Power of Righteouſneſſe, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord alone is Teacher of his people, himſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alone by his ſpirit, Rejoyce yee Saints and Righte<g ref="char:EOLhyphen"/>ous ones,<note place="margin">Iſai. 3.10. Joh. 15.1, z.</note> the Lord is Keeper of his Vines, hee the good Husbandman, the Keeper, and Preſerv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelfe alone, Therefore thus ſaith the Lord, <hi>ſay un<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Righteous it ſhall be well with them.</hi>
+            </p>
+            <p>Saith Jeſus Chriſt,<note place="margin">Cant. 1.12, 13, 14.</note> 
+               <hi>I am the Vine, yee are the Bra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ches,</hi> I am the good Shepheard, and my Sheep know my Voyce, and I lead them into fat paſture<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> large,<note place="margin">Cant. 2.4, 4, 5, 6.</note> and g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eene, where there is fulneſſe of va<g ref="char:EOLhyphen"/>rieties, love in Joy and Joy in Peace, and merc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the ſeate, where the King of <hi>Salem</hi> doth abide hee brought mee to the banquetting Houſe, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Banner over mee was Love, ſtay mee with Flag<g ref="char:EOLhyphen"/>gons, Comfort mee with Aples,<note place="margin">Cant. 2.13.</note> for I am ſick <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Love, Love, Love; The Vines the tender Grape give a good ſmell, O come and taſte how graciou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord is, <hi>my Beloved is mine,</hi> and I am his: Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g tree putteth forth her greene Figges, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Vines with the tender Grapes give a good ſmell, ari<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> my Love my faire one, and come away.</p>
+            <p>Say unto the wicked it ſhall be ill with them,<note place="margin">Iſai. 3.11.</note> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhall be rewarded according to their doings the wickedneſſe of the wicked ſhall ſlay them,<note place="margin">J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. 17.10,</note> Com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of <hi>Aegypt,</hi> Come out of
+<hi>Babilon,</hi> Come out <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the darke Miniſtery of the World, leaſt you bee cur<g ref="char:EOLhyphen"/>ſed, and blaſted, for the curſe is upon the Mini<g ref="char:EOLhyphen"/>ſtery of <hi>Antichriſt,</hi>
+               <note place="margin">Mal. 2.1, 2, 3.</note> and the Lord will bee avenge
+<pb n="17" facs="tcp:153214:11"/>of his Enemies, and hee will rule all Nations as with an <hi>Iron Rod,</hi>
+               <note place="margin">Rev. 19 19, 20, 22</note> and breake them to pieces as a Potters Veſſell; And there ſhall be but one Sheep<g ref="char:EOLhyphen"/>fold, and one Shepherd, the Lord one, and his Name one;</p>
+            <p>Rejoyce yee Saints and righteous ones, the Lord is King, <hi>And ſits upon the Throne,</hi> Ruling by his Power, to him alone be all Honour and Glory,<note place="margin">Rev. 21.</note> Praiſe, and Thankes, now and for evermore: <hi>Hallelujah</hi> to the higheſt.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+            <epigraph>
+               <q>
+                  <lg>
+                     <head>R. F.</head>
+                     <l>
+                        <note place="margin">1 John 1 10.</note> Thine in the Vine,</l>
+                     <l>Wee cannot be aſſunder,</l>
+                     <l> I in thee and thou in me,</l>
+                     <l>Rejoyce in our Fathers Love,</l>
+                  </lg>
+                  <bibl>
+                     <hi>Iohn</hi> 14. and <hi>ver.</hi> the 20.</bibl>
+               </q>
+               <q>
+                  <l>
+                     <note place="margin">Joh. 17.21 21.</note> There's three in one, and one in three,</l>
+                  <l>And that's perfect love in Unitie,</l>
+                  <l>I in them, and they in me, as</l>
+                  <l>Thou Father art in me, that</l>
+                  <l>They may bee perfect in one.</l>
+                  <bibl>
+                     <hi>Iohn</hi> 17.23.</bibl>
+               </q>
+               <pb n="18" facs="tcp:153214:12"/>
+               <q>
+                  <lg>
+                     <head>R. F. <hi>with</hi> S. T.</head>
+                     <l>
+                        <note place="margin">
+                           <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>. 2. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, 11 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, 1.</note>In the Vineyard together,</l>
+                     <l>Taſting of the fruit of the Vine,</l>
+                     <l>Where there are many ſweet</l>
+                     <l>
+                        <note place="margin">
+                           <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>nt. 7. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, 12.</note>
+                        <hi>Grapes</hi> ſprung forth to feed one.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153214:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
